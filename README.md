@@ -65,7 +65,7 @@
 
 
 
-### SQL Queries:
+## SQL Queries:
 
 ![image](https://github.com/user-attachments/assets/bf0b7acc-8005-456b-b4ec-7c7aa69241ab)
 
