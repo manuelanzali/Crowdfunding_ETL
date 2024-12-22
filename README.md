@@ -4,7 +4,7 @@
 ## Table Of Contents:
 
 1. About our Analysis
-2. ETL Process: Extract Transform
+2. ETL Process
 4. ERD
 5. Table Schema
 6. SQL Queries
